@@ -1,13 +1,22 @@
+.hedar{
+   padding-left: 150px;
+   padding-top: 150px;
+}
+.container{
+    padding-bottom: 100px;
+}
 .bg-buttam{
     background-image: url(images/bg-1.png);
     background-repeat: no-repeat;
-
-}
+    }
 .bg-top{
+    
     background-image: url(images/bg-2.png);
     background-repeat: no-repeat;
     background-position-y: bottom;
-    margin-left: 0;
+}
+.hedar{
+    padding-top: 300px;
 }
 .fast-hading{
     padding-left: 50px;
@@ -20,10 +29,7 @@
     border: none;
 }
 .container{
-    margin-bottom: 100px;
-}
-.col-md-6{
-    padding-left: 100px;
+    margin-bottom: 0px;
 }
 .smartphone-head p{
     color: tomato;
@@ -45,5 +51,10 @@
 }
 .big{
     width: 100%;
+}
+.footer{
+    text-align: center;
+    background-color: indigo;
+    color: ivory;
 }
 
