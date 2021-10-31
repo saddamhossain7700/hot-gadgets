@@ -1,0 +1,49 @@
+.bg-buttam{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+
+}
+.bg-top{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    margin-left: 0;
+}
+.fast-hading{
+    padding-left: 50px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+}
+.container{
+    margin-bottom: 100px;
+}
+.col-md-6{
+    padding-left: 100px;
+}
+.smartphone-head p{
+    color: tomato;
+}
+.card{
+    border: none;
+    box-shadow: 3px 3px 10px grey;
+}
+.Laptop, .card{
+    text-align: center;
+}
+.col-md-3 img{
+    width: 100%;
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px;
+}
+.small3{
+    margin-top: 20px;
+}
+.big{
+    width: 100%;
+}
+
